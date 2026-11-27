@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "tool": "hr-peoplesoft-extension",
-  "latest": "1.8.0",
-  "released": "2026-11-24",
-  "summary": "Adds update notices and in-tool guides, with two release editions."
+  "latest": "1.9.0",
+  "released": "2026-11-27",
+  "summary": "Build queries can count people across a join, and date prompts pass the SQL check."
 }
