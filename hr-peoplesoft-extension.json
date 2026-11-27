@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "tool": "hr-peoplesoft-extension",
-  "latest": "1.9.0",
+  "latest": "1.9.1",
   "released": "2026-11-27",
-  "summary": "Build queries can count people across a join, and date prompts pass the SQL check."
+  "summary": "Build queries refuses a total on a field that has a criterion when the spec loads, and evidence keeps the failing step."
 }
